@@ -27,6 +27,7 @@ After this
 {
     "dotnet-test-explorer.testProjectPath": "*.csproj"
 }
+
 - Run the test.
 
 Open the testing app.
